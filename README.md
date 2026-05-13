@@ -6,7 +6,7 @@
 - 👯 Learning, catching, async, system design
 - 🤔 Linkedin:https://www.linkedin.com/in/prathapreddyguddam/
 
-  ##Tech
+  ## Tech
   Sql, Python, HTML/CSS, Django, Git, GitHub Actions, PostgreSql
 
   ## Projects (Pinned Below)
