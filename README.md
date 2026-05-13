@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm G Prathap Reddy - The Coder 👋
+" "Python Full Stack Developer" "  - Django * Sql(oracle) * Python
 
-<!--
-**GPrathapReddy-code/GPrathapReddy-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Current Project: "Detection of cyber Harrasers on social Media"(sql Python advpython)
+- 🌱 I Write test with pytest and use github actions
+- 👯 Learning, catching, async, system design
+- 🤔 Linkedin:https://www.linkedin.com/in/prathapreddyguddam/
 
-Here are some ideas to get you started:
+  ##Tech
+  Sql, Python, HTML/CSS, Django, Git, GitHub Actions, PostgreSql
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Projects (Pinned Below)
+  1. ToDo -Auth, Search, tests, CI
+  2. School App-Django -Pysql
+  3. E-commerce app - Django
